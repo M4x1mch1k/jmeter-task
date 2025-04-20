@@ -1,0 +1,11 @@
+username,firstName,lastName,email,password,phone,userStatus
+jdoe,John,Doe,jdoe@example.com,Password123,+1234567890,1
+asmith,Alice,Smith,asmith@example.com,SecurePass456,+1987654321,1
+bjones,Bob,Jones,bjones@example.com,Qwerty789,+1122334455,0
+lwilson,Linda,Wilson,lwilson@example.com,MyPass321,+1223344556,1
+tmiller,Tom,Miller,tmiller@example.com,TomSecure999,+1445566778,0
+rgreen,Rachel,Green,rgreen@example.com,Rachel!234,+1556677889,1
+cblack,Chris,Black,cblack@example.com,Black987!,+1667788990,0
+dwhite,Derek,White,dwhite@example.com,DerekPass55,+1778899001,1
+nlewis,Nina,Lewis,nlewis@example.com,NinaSecure12,+1889900112,1
+kmoore,Kevin,Moore,kmoore@example.com,KevinPass77,+1990011223,0
